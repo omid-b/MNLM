@@ -1,0 +1,7 @@
+# Python dependencies for the MNLM gravity-anomaly denoiser
+# (src/MNLM_denoiser_for_gravity_anomaly/*.py)
+# Install with: pip install -r requirements.txt
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+PyWavelets>=1.4
